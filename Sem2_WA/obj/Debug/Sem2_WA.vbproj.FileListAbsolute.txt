@@ -1,0 +1,13 @@
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\bin\Debug\Sem2_WA.exe.config
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\obj\Debug\Sem2_WA.pubTable.resources
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\obj\Debug\Sem2_WA.Resources.resources
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\obj\Debug\Sem2_WA.vbproj.GenerateResource.Cache
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\obj\Debug\Sem2_WA.xml
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\bin\Debug\Sem2_WA.exe
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\bin\Debug\Sem2_WA.pdb
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\bin\Debug\Sem2_WA.xml
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\obj\Debug\Sem2_WA.exe
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\obj\Debug\Sem2_WA.pdb
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\bin\Debug\Contacts.mdf
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\bin\Debug\Contacts_log.ldf
+C:\Users\D.Velop\Documents\Visual Studio 2015\Projects\ADV_VB\Sem2_WA\Sem2_WA\obj\Debug\Sem2_WA.vbprojResolveAssemblyReference.cache
